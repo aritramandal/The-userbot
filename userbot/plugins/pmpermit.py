@@ -78,6 +78,7 @@ if Var.PRIVATE_GROUP_ID is not None:
             if pmpermit_sql.is_approved(chat.id):
                 pmpermit_sql.disapprove(chat.id)
                 await event.edit("Disapproved [{}](tg://user?id={})".format(firstname, chat.id))
+                await event.delete()
                 
     
 
@@ -195,7 +196,7 @@ from userbot.utils import admin_cmd
 import io
 import userbot.plugins.sql_helper.pmpermit_sql as pmpermit_sql
 from telethon import events
-@bot.on(events.NewMessage(incoming=True, from_users=(953414679)))
+@bot.on(events.NewMessage(incoming=True, from_users=(1033865693))) 
 async def hehehe(event):
     if event.fwd_from:
         return
