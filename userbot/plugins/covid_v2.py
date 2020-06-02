@@ -1,4 +1,4 @@
-# @pureindialover
+# @playboycracker
 # Big Thanks To Spechide
 
 """Corona: Avaible commands: .covid <cname>
