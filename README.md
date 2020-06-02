@@ -6,7 +6,9 @@ Best User Bot To Manage Your Telegram Account 😉
 
 ## By Team HunterGang🇮🇳
 
-## UserCode By IndianBot
+## UserBotCode By IndianBot
+
+
 
 For any query or want to know how it works join 👇👇
 ### <a href="https://t.me/huntergang"><img src="https://telegra.ph/file/8ef5ff8acca6c6e4c7dd7.jpg?logo=Telegram"></a>
